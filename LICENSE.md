@@ -33,6 +33,9 @@ There is no particular license on this repo. Files in this repo come from many s
 ### Nepeta & Andy Shin
 * libmitsuha: [MIT](https://github.com/kritanta-ios-tweaks/StatusViz/blob/master/libmitsuha/LICENSE)
 
+### libarchive
+* libarchive: [2-Clause BSD License](https://opensource.org/licenses/BSD-2-Clause)
+
 ### OpenSSL
 * OpenSSL: [OpenSSL](https://www.openssl.org/source/license.html)
 
