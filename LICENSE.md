@@ -3,8 +3,8 @@ There is no particular license on this repo. Files in this repo come from many s
 
 ## By Author
 ### Apple
-* IOKit headers: [Apple Public Source License](https://opensource.apple.com/license/apsl/)
-* MediaPlayer, Celestial headers: [2-Clause BSD License](https://github.com/WebKit/webkit/blob/master/Source/WebCore/LICENSE-APPLE)
+* IOKit: [Apple Public Source License](https://opensource.apple.com/license/apsl/)
+* MediaPlayer, Celestial: [2-Clause BSD License](https://github.com/WebKit/webkit/blob/master/Source/WebCore/LICENSE-APPLE)
 * launch.h: [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
 
 ### ashikase
@@ -12,14 +12,26 @@ There is no particular license on this repo. Files in this repo come from many s
 * libpackageinfo: [GNU GPL v3](https://github.com/ashikase/libpackageinfo/blob/master/LICENSE)
 * TechSupport: [GNU LGPL v3, Apache License 2](https://github.com/ashikase/TechSupport/blob/master/LICENSE)
 
+### CreatureSurvive
+* CSColorPicker: [MIT](https://github.com/CreatureSurvive/CSColorPicker/blob/master/CSColorPicker/LICENSE)
+
 ### Cykey
-* MediaRemote, MobileGestalt headers: [GNU GPL v3](https://github.com/Cykey/ios-reversed-headers/blob/master/LICENSE.txt)
+* MediaRemote, MobileGestalt: [GNU GPL v3](https://github.com/Cykey/ios-reversed-headers/blob/master/LICENSE.txt)
+
+### Cynder
+* libCozy: [dragon](https://github.com/cxnder/libCozy/blob/master/LICENSE)
 
 ### Dustin Howett
 * libprefs: [GNU LGPL v3](https://github.com/DHowett/preferenceloader/blob/master/LICENSE)
 
 ### KennyTM
-* GraphicsServices, IOSurface, substrate2.h headers: [3-Clause BSD License](http://opensource.org/licenses/BSD-3-Clause)
+* GraphicsServices, IOSurface, substrate2.h: [3-Clause BSD License](http://opensource.org/licenses/BSD-3-Clause)
+
+### Muirey03
+* libimagepicker: TBD
+
+### Nepeta & Andy Shin
+* libmitsuha: [MIT](https://github.com/kritanta-ios-tweaks/StatusViz/blob/master/libmitsuha/LICENSE)
 
 ### OpenSSL
 * OpenSSL: [OpenSSL](https://www.openssl.org/source/license.html)
@@ -35,10 +47,11 @@ There is no particular license on this repo. Files in this repo come from many s
 * RocketBootstrap (submodule): ?
 
 ### SaurikIT
-* Cydia Substrate: Licensing is rather strange and unclear here.
-    * As of approximately version 0.9.3997, Cydia Substrate became closed source. It was previously GNU GPL v3.
-    * The header provided here is taken from Cydia Substrate 0.9.4001 (February 2013) and has a comment that indicates that it is licensed under [GNU LGPL v3](substrate.h).
-    * Cydia Substrate 0.9.5000 (December 2013) changed the license comment to GNU GPL v3. It is unclear why this has changed.
+* substrate: [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause)
+
+### SparkDev
+* libSparkAppList: [WTFPL v2.0](https://github.com/SparkDev97/libSparkAppList/blob/master/LICENSE.md)
+* libSparkColourPicker: [WTFPL v2.0](https://github.com/SparkDev97/libSparkColourPicker/blob/master/LICENSE.md)
 
 ### Other headers
 Headers that aren't from elsewhere are released into the Public Domain.
