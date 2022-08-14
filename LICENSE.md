@@ -8,7 +8,7 @@ There is no particular license on this repo. Files in this repo come from many s
 * launch.h: [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
 
 ### ashikase
-* IconSupport: ?
+* IconSupport: Unknown
 * libpackageinfo: [GNU GPL v3](https://github.com/ashikase/libpackageinfo/blob/master/LICENSE)
 * TechSupport: [GNU LGPL v3, Apache License 2](https://github.com/ashikase/TechSupport/blob/master/LICENSE)
 
@@ -43,8 +43,8 @@ There is no particular license on this repo. Files in this repo come from many s
 * AppList: [GNU LGPL v2.1](https://github.com/rpetrich/AppList/blob/master/LICENSE)
 * CaptainHook (submodule): [MIT License](http://mit-license.org/)
 * libactivator (submodule): [GNU LGPL v2.1](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
-* LightMessaging (submodule): ?
-* RocketBootstrap (submodule): ?
+* LightMessaging (submodule): Unknown
+* RocketBootstrap (submodule): Unknown
 
 ### SaurikIT
 * substrate: [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause)
