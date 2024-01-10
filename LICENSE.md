@@ -12,6 +12,10 @@ There is no particular license on this repo. Files in this repo come from many s
 * libpackageinfo: [GNU GPL v3](https://github.com/ashikase/libpackageinfo/blob/master/LICENSE)
 * TechSupport: [GNU LGPL v3, Apache License 2](https://github.com/ashikase/TechSupport/blob/master/LICENSE)
 
+### CoolStar
+* libhooker: [3-Clause BSD License](http://opensource.org/licenses/BSD-3-Clause)
+* libblackjack: [3-Clause BSD License](http://opensource.org/licenses/BSD-3-Clause)
+
 ### CreatureSurvive
 * CSColorPicker: [MIT](https://github.com/CreatureSurvive/CSColorPicker/blob/master/CSColorPicker/LICENSE)
 
